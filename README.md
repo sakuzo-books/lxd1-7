@@ -10,7 +10,7 @@
 - Kindle版 https://www.amazon.co.jp/dp/XXXXXXXX  
 ![これは使える！LXDコンテナで作るLinux学習環境 －イントラネット系サーバー構築編－(Ubuntu20.04) Kindle版](https://images-na.ssl-images-amazon.com/images/P/B0BB3J9M3Y.09.MZZZZZZZ.jpg)
 
-- ペーパーバック https://www.amazon.co.jp/dp/XXXXXXXX
+- ペーパーバック https://www.amazon.co.jp/dp/XXXXXXXX  
 ![これは使える！LXDコンテナで作るLinux学習環境 －イントラネット系サーバー構築編－(Ubuntu20.04) ペーパーバック](https://images-na.ssl-images-amazon.com/images/P/B0BB5YKFKG.09.MZZZZZZZ.jpg)
 
 
