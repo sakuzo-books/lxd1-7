@@ -1,4 +1,7 @@
-# LinuC対応表
+# LinuC試験対応表
+
+筆者の個人的見解です。  
+LinuCの主催団体 LPI-Japan とは一切関係ありません。
 
 ## LinuC レベル1 Version 10.0
 
